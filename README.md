@@ -4,7 +4,7 @@ This is a car rental project developed for the graduation Project. It is built u
 
 ## Live website:
 
-- check live website [here](https://realrentcar.galdi.dev/)
+- check live website [here](https://rent.xerror.online/)
 
 ## Features
 
@@ -29,7 +29,7 @@ This is a car rental project developed for the graduation Project. It is built u
 
 ## Installation
 
-1. Clone the repository: https://github.com/Mohamed-Galdi/RealRentCar
+1. Clone the repository: https://github.com/arifur128/Car-Rental-Laravel
 
 2. Navigate to the project directory: `cd RealRentCar`
 
